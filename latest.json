@@ -1,19 +1,19 @@
 {
-  "version": "0.4.1",
+  "version": "0.4.2",
   "notes": "Descarga el instalador para tu plataforma.",
-  "pub_date": "2026-04-03T16:03:56.771Z",
+  "pub_date": "2026-04-04T02:17:48.363Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUblNOYlZwRmlTUjVGS1VUc1h6eWhOZThlK2RBaFlTaG9LR0FiVS9ZM1cybkl2TXl3dUdOcVdyWXFneUd2ZjRVcGRHMDVOczNGRG8vd3FJNlluKytJblVxS2pTSXRaWGdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1MjMyMjMxCWZpbGU6UWxhYiBQT1NfMC40LjFfeDY0LXNldHVwLmV4ZQpScGE3bXVWdDYxRC9rVkFFQ1Q4RmtrOHN6TmJvOWxKeFVXQVRyVStFY3JLS3JCajc0K1NzRVN1TmxpRFNoZk0wYkR4NTVIQUxwbmQza2sxVllKODVBdz09Cg==",
-      "url": "https://github.com/CarlosBranty/qlab-releases/releases/download/v0.4.1/Qlab.POS_0.4.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUblNOYlZwRmlTUjcrWkZXMFBJMHFkN2ZKRjVudXZLbDZSdzBzaWRJU0Y3Zmgwc0JpMEFuam1nelc1eXc2VDFsWTJSOWt0SkFxT3lCQXVsaE1DdmJhaHJteU4rWkRobEEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1MjY5MDYyCWZpbGU6UWxhYiBQT1NfMC40LjJfeDY0LXNldHVwLmV4ZQpydVhEbEhHNHdaWGdsZDNWeGI0NWJwSmNPeXg2Q3ZOU28rQWxYLzFsSUxLNU0rMkNwMzBzYUpYb21uN0VFOE9DVnZLVmd0ZXpjUVF6bDFaYUtybHJBUT09Cg==",
+      "url": "https://github.com/CarlosBranty/qlab-releases/releases/download/v0.4.2/Qlab.POS_0.4.2_x64-setup.exe"
     },
     "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUblNOYlZwRmlTUjVGS1VUc1h6eWhOZThlK2RBaFlTaG9LR0FiVS9ZM1cybkl2TXl3dUdOcVdyWXFneUd2ZjRVcGRHMDVOczNGRG8vd3FJNlluKytJblVxS2pTSXRaWGdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1MjMyMjMxCWZpbGU6UWxhYiBQT1NfMC40LjFfeDY0LXNldHVwLmV4ZQpScGE3bXVWdDYxRC9rVkFFQ1Q4RmtrOHN6TmJvOWxKeFVXQVRyVStFY3JLS3JCajc0K1NzRVN1TmxpRFNoZk0wYkR4NTVIQUxwbmQza2sxVllKODVBdz09Cg==",
-      "url": "https://github.com/CarlosBranty/qlab-releases/releases/download/v0.4.1/Qlab.POS_0.4.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUblNOYlZwRmlTUjcrWkZXMFBJMHFkN2ZKRjVudXZLbDZSdzBzaWRJU0Y3Zmgwc0JpMEFuam1nelc1eXc2VDFsWTJSOWt0SkFxT3lCQXVsaE1DdmJhaHJteU4rWkRobEEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1MjY5MDYyCWZpbGU6UWxhYiBQT1NfMC40LjJfeDY0LXNldHVwLmV4ZQpydVhEbEhHNHdaWGdsZDNWeGI0NWJwSmNPeXg2Q3ZOU28rQWxYLzFsSUxLNU0rMkNwMzBzYUpYb21uN0VFOE9DVnZLVmd0ZXpjUVF6bDFaYUtybHJBUT09Cg==",
+      "url": "https://github.com/CarlosBranty/qlab-releases/releases/download/v0.4.2/Qlab.POS_0.4.2_x64-setup.exe"
     },
     "windows-x86_64-msi": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUblNOYlZwRmlTUitUMVZ3Qm9CdkZzcGtyQ2pQWHZXWkpPMGdaZll1SWkvREo3VldSM2ZEWTEyYTBrcnhFaWxncnhuaElvZjdhYzVmemluMjdRWFNTS05IcHRJU2hIU1E0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1MjMyMjMxCWZpbGU6UWxhYiBQT1NfMC40LjFfeDY0X2VuLVVTLm1zaQoveUhvMEFMUFd2UDZueE96S3dQcWxIN2t0dXRFUXQ5QmNHd2VpQnVES1ljSldONFNIalg4M08wNE5sYXRaNm1wMTdsWVN2bld6MEZNTzkzaHRSRGlEZz09Cg==",
-      "url": "https://github.com/CarlosBranty/qlab-releases/releases/download/v0.4.1/Qlab.POS_0.4.1_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUblNOYlZwRmlTUnlkRXFuZXVnL3l4amU3NUU0V1RGMENhd04rdFFxZ05uQ2Fpa0huc2RTYmdaSzJnMDNOd3RkRjFIaGFKdkFHNUhmSnpQcUdYdE8yU3Q1NGZvdC9Lcnc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1MjY5MDYyCWZpbGU6UWxhYiBQT1NfMC40LjJfeDY0X2VuLVVTLm1zaQpaK0gvcmhqbzdRRFVzTkhXUFU0cGdLdmpuUHgwbnBtSTR3cGFsZTRvOXhaMTM4NDI0bmFBOXRtWU1jdEM4bkF6K2lUVDlGVnpDTjdTUklmK3VDRTdBdz09Cg==",
+      "url": "https://github.com/CarlosBranty/qlab-releases/releases/download/v0.4.2/Qlab.POS_0.4.2_x64_en-US.msi"
     }
   }
 }
