@@ -1,35 +1,35 @@
 {
-  "version": "0.6.0",
+  "version": "0.7.0-1",
   "notes": "Descarga el instalador para tu plataforma.",
-  "pub_date": "2026-04-11T21:22:01.156Z",
+  "pub_date": "2026-04-11T23:47:59.378Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUblNOYlZwRmlTUi9qSEFBVk00WTlUSHJITGxlTkJFUU1KQi9WTWdWUjFaTzVnbVMxQ2J6dkRoSUFpZzRuUGZkWklJcVVNN1FkUVFndFFoQjBXM29wR0F1NnpFeTN2OUE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1OTQyNTE2CWZpbGU6UWxhYiBQT1NfMC42LjBfeDY0LXNldHVwLmV4ZQpMQWJJWWNFQ0lRSmEzcXhscTlNSlFQQ2c0N0x6M1RidFd3QkozTm04NUUxSU1wcXFvZU14RDhkUGswRFpmckt2Nmg5UEZTK3FoUjMvZXJuUTR6SzdBQT09Cg==",
-      "url": "https://github.com/CarlosBranty/qlab-releases/releases/download/v0.6.0/Qlab.POS_0.6.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUblNOYlZwRmlTUjZPYkwwelVpRm9BTTVXaVFaTTh2S2FHYzdIQlVycnQ3TkVucDlaWkJOTnlJMnN0Ym1rckRNVDk4SndPQk04R09GUUFIc1BQRGU1QVNWYUdPdG5zdEFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1OTUxMjc0CWZpbGU6UWxhYiBQT1NfMC43LjAtMV94NjQtc2V0dXAuZXhlCjhUK1c3NTU4RDc2TlJoQkFtMUN1aWFxVXFOL1lHN1FwYUVsb1hOdDlpMEo1bzBSVHFHc1Vqa1VCd3VtM25pTzZsQkpvcW5YR2ZzTkY3eHdEdDJJNUN3PT0K",
+      "url": "https://github.com/CarlosBranty/qlab-releases/releases/download/v0.7.0-1/Qlab.POS_0.7.0-1_x64-setup.exe"
     },
     "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUblNOYlZwRmlTUi9qSEFBVk00WTlUSHJITGxlTkJFUU1KQi9WTWdWUjFaTzVnbVMxQ2J6dkRoSUFpZzRuUGZkWklJcVVNN1FkUVFndFFoQjBXM29wR0F1NnpFeTN2OUE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1OTQyNTE2CWZpbGU6UWxhYiBQT1NfMC42LjBfeDY0LXNldHVwLmV4ZQpMQWJJWWNFQ0lRSmEzcXhscTlNSlFQQ2c0N0x6M1RidFd3QkozTm04NUUxSU1wcXFvZU14RDhkUGswRFpmckt2Nmg5UEZTK3FoUjMvZXJuUTR6SzdBQT09Cg==",
-      "url": "https://github.com/CarlosBranty/qlab-releases/releases/download/v0.6.0/Qlab.POS_0.6.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUblNOYlZwRmlTUjZPYkwwelVpRm9BTTVXaVFaTTh2S2FHYzdIQlVycnQ3TkVucDlaWkJOTnlJMnN0Ym1rckRNVDk4SndPQk04R09GUUFIc1BQRGU1QVNWYUdPdG5zdEFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1OTUxMjc0CWZpbGU6UWxhYiBQT1NfMC43LjAtMV94NjQtc2V0dXAuZXhlCjhUK1c3NTU4RDc2TlJoQkFtMUN1aWFxVXFOL1lHN1FwYUVsb1hOdDlpMEo1bzBSVHFHc1Vqa1VCd3VtM25pTzZsQkpvcW5YR2ZzTkY3eHdEdDJJNUN3PT0K",
+      "url": "https://github.com/CarlosBranty/qlab-releases/releases/download/v0.7.0-1/Qlab.POS_0.7.0-1_x64-setup.exe"
     },
     "windows-x86_64-msi": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUblNOYlZwRmlTUjRCcXNJODAxVkNXcGhUK1QxREJ1NEx1OFNtaW1veUd3UllEVkNQMXJhd3M0eTNjYVNzdnVjUkhPbFNUbDNDc3lLdlQ1T3ZsVFErMndIdklJd1JoSlFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1OTQyNTE2CWZpbGU6UWxhYiBQT1NfMC42LjBfeDY0X2VuLVVTLm1zaQo3RDU5cE9BR0FQdTNlcEE3dkdTbTVLc3FuZ0hDNnVjdDhuU2ZmOEl0UHBhSzN3ZU0wWmZnZGZUWlA5VHBxUGw3TE91WGRnelZBUWc5UmVBQ2NOaUxDdz09Cg==",
-      "url": "https://github.com/CarlosBranty/qlab-releases/releases/download/v0.6.0/Qlab.POS_0.6.0_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUblNOYlZwRmlTUnhzLzdDVDI0L3M2WVZCYlZLVWdPRFdnRkRRaU1Kdk9OTzRCRkJYWFZSN2tTa3lMRUNQY283QmZyYThRaEdoa0wxWUxDWXNpWWFVdUhPUWRZdzJvTGcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1OTUxMjc0CWZpbGU6UWxhYiBQT1NfMC43LjAtMV94NjRfZW4tVVMubXNpCmhIUlU4amhQMThsRjFFN2I3N3JyVE9LZ2xsRHRHZUljU0VzWEMzK255aUxmeUZlOFROTGJtN0U4Q0p0d2ZsMUljckthNzhTWDJKUjJvSG92Z1lEcEJnPT0K",
+      "url": "https://github.com/CarlosBranty/qlab-releases/releases/download/v0.7.0-1/Qlab.POS_0.7.0-1_x64_en-US.msi"
     },
     "android-aarch64": {
-      "url": "https://github.com/CarlosBranty/qlab-releases/releases/download/v0.6.0/Qlab.POS_0.6.0_universal.apk",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUblNOYlZwRmlTUitrb3Z5a2ZlQjBBT21jYVY1aFRPK2czc3J2Qm1RbTYwUm9zM0FITmdMZG53T2RrRkkvTzg4R2lOSXVQTmNldFFzeFllN0N6S1BzL1RBME5RMitFUlFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1OTQzNDk5CWZpbGU6UWxhYi5QT1NfMC42LjBfdW5pdmVyc2FsLmFwawpObFVWQXpLNVdCbCtaU1hRUWpDeVBPQlpYZk40OC91bUFNbHZKVURzT1FUZDlQM1ZBVmQ0K1JPWEdsZHVGYW1WWHZxMytJRlBiYjdCeE1GblJZMFNDUT09Cg=="
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUblNOYlZwRmlTUnhqMjJZTi9uRmNLeEVGY3UybUh0bS9qNys2bk1adFBOTndIWjhHeFN5Y0FjaDNlTDU3cWtTRmVwVEk3UndMd2ZOeXRVUC84OStxaUVqZmZPT1N5WEF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1OTUyNTQ2CWZpbGU6UWxhYi5QT1NfMC43LjAtMV91bml2ZXJzYWwuYXBrCkxMcXhncFRNWHFadHJ0OHd0ZVA5NkhMS2U0RERENlNaL01Yd25oUmRPV0U4TFJrT2hUN0Z3M1FZNUJ0ZUVNdTJwNVJFSTJ4YUFMWUMrRkRlSk91REJRPT0K",
+      "url": "https://github.com/CarlosBranty/qlab-releases/releases/download/v0.7.0-1/Qlab.POS_0.7.0-1_universal.apk"
     },
     "android-armv7": {
-      "url": "https://github.com/CarlosBranty/qlab-releases/releases/download/v0.6.0/Qlab.POS_0.6.0_universal.apk",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUblNOYlZwRmlTUitrb3Z5a2ZlQjBBT21jYVY1aFRPK2czc3J2Qm1RbTYwUm9zM0FITmdMZG53T2RrRkkvTzg4R2lOSXVQTmNldFFzeFllN0N6S1BzL1RBME5RMitFUlFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1OTQzNDk5CWZpbGU6UWxhYi5QT1NfMC42LjBfdW5pdmVyc2FsLmFwawpObFVWQXpLNVdCbCtaU1hRUWpDeVBPQlpYZk40OC91bUFNbHZKVURzT1FUZDlQM1ZBVmQ0K1JPWEdsZHVGYW1WWHZxMytJRlBiYjdCeE1GblJZMFNDUT09Cg=="
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUblNOYlZwRmlTUnhqMjJZTi9uRmNLeEVGY3UybUh0bS9qNys2bk1adFBOTndIWjhHeFN5Y0FjaDNlTDU3cWtTRmVwVEk3UndMd2ZOeXRVUC84OStxaUVqZmZPT1N5WEF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1OTUyNTQ2CWZpbGU6UWxhYi5QT1NfMC43LjAtMV91bml2ZXJzYWwuYXBrCkxMcXhncFRNWHFadHJ0OHd0ZVA5NkhMS2U0RERENlNaL01Yd25oUmRPV0U4TFJrT2hUN0Z3M1FZNUJ0ZUVNdTJwNVJFSTJ4YUFMWUMrRkRlSk91REJRPT0K",
+      "url": "https://github.com/CarlosBranty/qlab-releases/releases/download/v0.7.0-1/Qlab.POS_0.7.0-1_universal.apk"
     },
     "android-i686": {
-      "url": "https://github.com/CarlosBranty/qlab-releases/releases/download/v0.6.0/Qlab.POS_0.6.0_universal.apk",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUblNOYlZwRmlTUitrb3Z5a2ZlQjBBT21jYVY1aFRPK2czc3J2Qm1RbTYwUm9zM0FITmdMZG53T2RrRkkvTzg4R2lOSXVQTmNldFFzeFllN0N6S1BzL1RBME5RMitFUlFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1OTQzNDk5CWZpbGU6UWxhYi5QT1NfMC42LjBfdW5pdmVyc2FsLmFwawpObFVWQXpLNVdCbCtaU1hRUWpDeVBPQlpYZk40OC91bUFNbHZKVURzT1FUZDlQM1ZBVmQ0K1JPWEdsZHVGYW1WWHZxMytJRlBiYjdCeE1GblJZMFNDUT09Cg=="
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUblNOYlZwRmlTUnhqMjJZTi9uRmNLeEVGY3UybUh0bS9qNys2bk1adFBOTndIWjhHeFN5Y0FjaDNlTDU3cWtTRmVwVEk3UndMd2ZOeXRVUC84OStxaUVqZmZPT1N5WEF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1OTUyNTQ2CWZpbGU6UWxhYi5QT1NfMC43LjAtMV91bml2ZXJzYWwuYXBrCkxMcXhncFRNWHFadHJ0OHd0ZVA5NkhMS2U0RERENlNaL01Yd25oUmRPV0U4TFJrT2hUN0Z3M1FZNUJ0ZUVNdTJwNVJFSTJ4YUFMWUMrRkRlSk91REJRPT0K",
+      "url": "https://github.com/CarlosBranty/qlab-releases/releases/download/v0.7.0-1/Qlab.POS_0.7.0-1_universal.apk"
     },
     "android-x86_64": {
-      "url": "https://github.com/CarlosBranty/qlab-releases/releases/download/v0.6.0/Qlab.POS_0.6.0_universal.apk",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUblNOYlZwRmlTUitrb3Z5a2ZlQjBBT21jYVY1aFRPK2czc3J2Qm1RbTYwUm9zM0FITmdMZG53T2RrRkkvTzg4R2lOSXVQTmNldFFzeFllN0N6S1BzL1RBME5RMitFUlFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1OTQzNDk5CWZpbGU6UWxhYi5QT1NfMC42LjBfdW5pdmVyc2FsLmFwawpObFVWQXpLNVdCbCtaU1hRUWpDeVBPQlpYZk40OC91bUFNbHZKVURzT1FUZDlQM1ZBVmQ0K1JPWEdsZHVGYW1WWHZxMytJRlBiYjdCeE1GblJZMFNDUT09Cg=="
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUblNOYlZwRmlTUnhqMjJZTi9uRmNLeEVGY3UybUh0bS9qNys2bk1adFBOTndIWjhHeFN5Y0FjaDNlTDU3cWtTRmVwVEk3UndMd2ZOeXRVUC84OStxaUVqZmZPT1N5WEF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1OTUyNTQ2CWZpbGU6UWxhYi5QT1NfMC43LjAtMV91bml2ZXJzYWwuYXBrCkxMcXhncFRNWHFadHJ0OHd0ZVA5NkhMS2U0RERENlNaL01Yd25oUmRPV0U4TFJrT2hUN0Z3M1FZNUJ0ZUVNdTJwNVJFSTJ4YUFMWUMrRkRlSk91REJRPT0K",
+      "url": "https://github.com/CarlosBranty/qlab-releases/releases/download/v0.7.0-1/Qlab.POS_0.7.0-1_universal.apk"
     }
   }
 }
