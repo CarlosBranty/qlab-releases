@@ -1,35 +1,35 @@
 {
-  "version": "0.7.0-30",
+  "version": "0.7.0-31",
   "notes": "Descarga el instalador para tu plataforma.",
-  "pub_date": "2026-04-21T18:43:49.994Z",
+  "pub_date": "2026-10-09T18:37:15.092Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUblNOYlZwRmlTUjlUaFYrS2hrZC9zd0tpRG1VbHpDdUtya2NZelhyalMzQTQrekwzUXNPdVhXZExpd3RKVy92VXA1NVBUU0NWNmdGWHBmeG1abmhxMjVYTVhJZWU4NHdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2Nzk3MDIzCWZpbGU6UWxhYiBQT1NfMC43LjAtMzBfeDY0LXNldHVwLmV4ZQpSK1Y2U0RjZi9KRTNGUTJXNTlZQXFBQVFDM1NuZUVtMXNldTF3aStTa05GOGVGdk1ZQ0tvZjhzMXdkNElsNnR5ak4xOUluM1VHSDZFaFNRRTI5c2pBZz09Cg==",
-      "url": "https://github.com/CarlosBranty/qlab-releases/releases/download/v0.7.0-30/Qlab.POS_0.7.0-30_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUblNOYlZwRmlTUjV6ajZGc0FZWnBQdFFNS2NKMFExSEVseWJOUkVVU09CeWxnVlFXd2F3TGhXQ2FMc1lSR0s1QTVWeHIzSGtTVmtjZEJZb2J2bFdMOHAxZ09rbk9pYVFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNTcxMDIyCWZpbGU6UWxhYiBQT1NfMC43LjAtMzFfeDY0LXNldHVwLmV4ZQpzQTQ4VnNYcVVRVk9XOXl5RHBGOXJWbkhZSndnajBCTkVaeW1sQ3VLbVA5Yjc4bHQzTGl6b2FaSzRyaVFHV21wZ2xKREJCWE5XNnZwNjNTa3hUMEFEUT09Cg==",
+      "url": "https://github.com/CarlosBranty/qlab-releases/releases/download/v0.7.0-31/Qlab.POS_0.7.0-31_x64-setup.exe"
     },
     "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUblNOYlZwRmlTUjlUaFYrS2hrZC9zd0tpRG1VbHpDdUtya2NZelhyalMzQTQrekwzUXNPdVhXZExpd3RKVy92VXA1NVBUU0NWNmdGWHBmeG1abmhxMjVYTVhJZWU4NHdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2Nzk3MDIzCWZpbGU6UWxhYiBQT1NfMC43LjAtMzBfeDY0LXNldHVwLmV4ZQpSK1Y2U0RjZi9KRTNGUTJXNTlZQXFBQVFDM1NuZUVtMXNldTF3aStTa05GOGVGdk1ZQ0tvZjhzMXdkNElsNnR5ak4xOUluM1VHSDZFaFNRRTI5c2pBZz09Cg==",
-      "url": "https://github.com/CarlosBranty/qlab-releases/releases/download/v0.7.0-30/Qlab.POS_0.7.0-30_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUblNOYlZwRmlTUjV6ajZGc0FZWnBQdFFNS2NKMFExSEVseWJOUkVVU09CeWxnVlFXd2F3TGhXQ2FMc1lSR0s1QTVWeHIzSGtTVmtjZEJZb2J2bFdMOHAxZ09rbk9pYVFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNTcxMDIyCWZpbGU6UWxhYiBQT1NfMC43LjAtMzFfeDY0LXNldHVwLmV4ZQpzQTQ4VnNYcVVRVk9XOXl5RHBGOXJWbkhZSndnajBCTkVaeW1sQ3VLbVA5Yjc4bHQzTGl6b2FaSzRyaVFHV21wZ2xKREJCWE5XNnZwNjNTa3hUMEFEUT09Cg==",
+      "url": "https://github.com/CarlosBranty/qlab-releases/releases/download/v0.7.0-31/Qlab.POS_0.7.0-31_x64-setup.exe"
     },
     "windows-x86_64-msi": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUblNOYlZwRmlTUjBrMWpRWVNNN2hiNGxTUHM4ZTljTHFaZVp1bExKVXBYcHpQV2ZjeUlBSFlPVUY0SCtRa0UxRGdNVkhidXJsK2RFeHhuQWI3WFVFVlRKZW5wWkFyQVF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2Nzk3MDIzCWZpbGU6UWxhYiBQT1NfMC43LjAtMzBfeDY0X2VuLVVTLm1zaQpsTU1NZyt5K2kydUZzaHhFUG1QMWZYaG4zSXRDbm1HaTdTT0lNR0xVcnlwamV3UDFLWWo0dHlraUd4bkd6TTg1ZmZ5SFRLQU1WdmQwUlZQdm9WanVBQT09Cg==",
-      "url": "https://github.com/CarlosBranty/qlab-releases/releases/download/v0.7.0-30/Qlab.POS_0.7.0-30_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUblNOYlZwRmlTUjdEVEZ5aFFWM2YzUy90OUR3c0k2R2FlOFQvK1ltSE5pM1B3QkZWZm1acDZOU2VZUXpodFVMbEhEZmU4Y2d3eFpZMUJDclJ6elV4UmthdjVIT0FqYWdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNTcxMDIyCWZpbGU6UWxhYiBQT1NfMC43LjAtMzFfeDY0X2VuLVVTLm1zaQorNVJ0aFRQa1BhZzhoK3JDNjBiUlpGbUJaZFFCYVNoV3Z4aEN0b3NDWVp1U3Qxc3QzSjN4MExnNkh1ZVNQYWx1R1JmRG52WlhTSWxJRWUwaXBlVHdEUT09Cg==",
+      "url": "https://github.com/CarlosBranty/qlab-releases/releases/download/v0.7.0-31/Qlab.POS_0.7.0-31_x64_en-US.msi"
     },
     "android-aarch64": {
-      "url": "https://github.com/CarlosBranty/qlab-releases/releases/download/v0.7.0-30/Qlab.POS_0.7.0-30_universal.apk",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUblNOYlZwRmlTUjYvOTV4Vm11YkNiZmVlaDZ2dUt5QTBKcmEvdEJMVE1yekhYWUVLTFhiclFUcjhMMVVValg4MFJ1UjNvVExpS1g2S0poa2plU25FV01ZenV5T0tiY3drPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2Nzk4NTg3CWZpbGU6UWxhYi5QT1NfMC43LjAtMzBfdW5pdmVyc2FsLmFwawoxYjB5aTZSUDJpM3RiMEhqeXhmR3BIM3VMTVhzejBTNEhGak96UGF2MjZDQjRUaHdqVGozSmlpdXBsZnVYNVVWSXZ5aUNGY2xGbGNuNituVk9kZ0hBUT09Cg=="
+      "url": "https://github.com/CarlosBranty/qlab-releases/releases/download/v0.7.0-31/Qlab.POS_0.7.0-31_universal.apk",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUblNOYlZwRmlTUnoxUEZKdHA3OElOWVdTZFNKTmhqOWtrMTRMM2lmaVFQK056aUdLUE9nam55d1RtZ1N3d2trOTFIaHhWSG9jblZzVmFrd291YzMrV243TEplRjNqR2cwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNTcyNjc3CWZpbGU6UWxhYi5QT1NfMC43LjAtMzFfdW5pdmVyc2FsLmFwawpuR1ExL2w0Vnh0aVE2OWRvamJwYks5eCtNYTFLdGc3R3d5dzlOM2l4TTVCMm12SUpWT05jOGlLc3Yvckh5Q0hxTTJKL1pHY3ZvcHhCVWJWbE5UTG1EUT09Cg=="
     },
     "android-armv7": {
-      "url": "https://github.com/CarlosBranty/qlab-releases/releases/download/v0.7.0-30/Qlab.POS_0.7.0-30_universal.apk",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUblNOYlZwRmlTUjYvOTV4Vm11YkNiZmVlaDZ2dUt5QTBKcmEvdEJMVE1yekhYWUVLTFhiclFUcjhMMVVValg4MFJ1UjNvVExpS1g2S0poa2plU25FV01ZenV5T0tiY3drPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2Nzk4NTg3CWZpbGU6UWxhYi5QT1NfMC43LjAtMzBfdW5pdmVyc2FsLmFwawoxYjB5aTZSUDJpM3RiMEhqeXhmR3BIM3VMTVhzejBTNEhGak96UGF2MjZDQjRUaHdqVGozSmlpdXBsZnVYNVVWSXZ5aUNGY2xGbGNuNituVk9kZ0hBUT09Cg=="
+      "url": "https://github.com/CarlosBranty/qlab-releases/releases/download/v0.7.0-31/Qlab.POS_0.7.0-31_universal.apk",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUblNOYlZwRmlTUnoxUEZKdHA3OElOWVdTZFNKTmhqOWtrMTRMM2lmaVFQK056aUdLUE9nam55d1RtZ1N3d2trOTFIaHhWSG9jblZzVmFrd291YzMrV243TEplRjNqR2cwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNTcyNjc3CWZpbGU6UWxhYi5QT1NfMC43LjAtMzFfdW5pdmVyc2FsLmFwawpuR1ExL2w0Vnh0aVE2OWRvamJwYks5eCtNYTFLdGc3R3d5dzlOM2l4TTVCMm12SUpWT05jOGlLc3Yvckh5Q0hxTTJKL1pHY3ZvcHhCVWJWbE5UTG1EUT09Cg=="
     },
     "android-i686": {
-      "url": "https://github.com/CarlosBranty/qlab-releases/releases/download/v0.7.0-30/Qlab.POS_0.7.0-30_universal.apk",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUblNOYlZwRmlTUjYvOTV4Vm11YkNiZmVlaDZ2dUt5QTBKcmEvdEJMVE1yekhYWUVLTFhiclFUcjhMMVVValg4MFJ1UjNvVExpS1g2S0poa2plU25FV01ZenV5T0tiY3drPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2Nzk4NTg3CWZpbGU6UWxhYi5QT1NfMC43LjAtMzBfdW5pdmVyc2FsLmFwawoxYjB5aTZSUDJpM3RiMEhqeXhmR3BIM3VMTVhzejBTNEhGak96UGF2MjZDQjRUaHdqVGozSmlpdXBsZnVYNVVWSXZ5aUNGY2xGbGNuNituVk9kZ0hBUT09Cg=="
+      "url": "https://github.com/CarlosBranty/qlab-releases/releases/download/v0.7.0-31/Qlab.POS_0.7.0-31_universal.apk",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUblNOYlZwRmlTUnoxUEZKdHA3OElOWVdTZFNKTmhqOWtrMTRMM2lmaVFQK056aUdLUE9nam55d1RtZ1N3d2trOTFIaHhWSG9jblZzVmFrd291YzMrV243TEplRjNqR2cwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNTcyNjc3CWZpbGU6UWxhYi5QT1NfMC43LjAtMzFfdW5pdmVyc2FsLmFwawpuR1ExL2w0Vnh0aVE2OWRvamJwYks5eCtNYTFLdGc3R3d5dzlOM2l4TTVCMm12SUpWT05jOGlLc3Yvckh5Q0hxTTJKL1pHY3ZvcHhCVWJWbE5UTG1EUT09Cg=="
     },
     "android-x86_64": {
-      "url": "https://github.com/CarlosBranty/qlab-releases/releases/download/v0.7.0-30/Qlab.POS_0.7.0-30_universal.apk",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUblNOYlZwRmlTUjYvOTV4Vm11YkNiZmVlaDZ2dUt5QTBKcmEvdEJMVE1yekhYWUVLTFhiclFUcjhMMVVValg4MFJ1UjNvVExpS1g2S0poa2plU25FV01ZenV5T0tiY3drPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2Nzk4NTg3CWZpbGU6UWxhYi5QT1NfMC43LjAtMzBfdW5pdmVyc2FsLmFwawoxYjB5aTZSUDJpM3RiMEhqeXhmR3BIM3VMTVhzejBTNEhGak96UGF2MjZDQjRUaHdqVGozSmlpdXBsZnVYNVVWSXZ5aUNGY2xGbGNuNituVk9kZ0hBUT09Cg=="
+      "url": "https://github.com/CarlosBranty/qlab-releases/releases/download/v0.7.0-31/Qlab.POS_0.7.0-31_universal.apk",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUblNOYlZwRmlTUnoxUEZKdHA3OElOWVdTZFNKTmhqOWtrMTRMM2lmaVFQK056aUdLUE9nam55d1RtZ1N3d2trOTFIaHhWSG9jblZzVmFrd291YzMrV243TEplRjNqR2cwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNTcyNjc3CWZpbGU6UWxhYi5QT1NfMC43LjAtMzFfdW5pdmVyc2FsLmFwawpuR1ExL2w0Vnh0aVE2OWRvamJwYks5eCtNYTFLdGc3R3d5dzlOM2l4TTVCMm12SUpWT05jOGlLc3Yvckh5Q0hxTTJKL1pHY3ZvcHhCVWJWbE5UTG1EUT09Cg=="
     }
   }
 }
