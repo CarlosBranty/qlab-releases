@@ -30,6 +30,10 @@
     "android-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUblNOYlZwRmlTUnlQZXI5d21QYXNKQU15Sno0Vk96RVBHVE03TUl3bUNsdVNteHdzWWJ3VzBxQ2tZSGlYeUVUdzI2dkNOSEFQZVoyb2JLbFJuTkloaTJFaGpuM3ZxN2dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDUyNzAxCWZpbGU6UWxhYi5QT1NfMC43LjAtMzdfdW5pdmVyc2FsLmFwawpPNjI3L3RlZHBaMmhuWjNIWENMMTdaVUN2YXMxd3BQYmJnWDVqREJKeHFSNEZKdGkxN2dEUzlrZ0tCU29ja0tJV2J1MzN3NjJLelRqZUQ4VjBEZXFDdz09Cg==",
       "url": "https://github.com/CarlosBranty/qlab-releases/releases/download/v0.7.0-37/Qlab.POS_0.7.0-37_universal.apk"
+    },
+    "linux-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUblNOYlZwRmlTUitjN2tCOFVLSlVvMWQ5ZzRnMGRYSFhjQW0wMEJSZWFId1U4UEFLc2FHZnhneXF0SlBKTVpONTNyL0taSkh4cUkrZ3BPazB0LzBEcUxEUWNjNzhVZlFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDUyMDA0CWZpbGU6UWxhYiBQT1NfMC43LjAtMzdfYW1kNjQuQXBwSW1hZ2UKYlpoLy9yNVpuK21ydGFzY25ncTAyYlZ2ajYwSzVHVzJrYnUyS3RtUnY3eHp6Uk1uMTQ0a1ZYamhHMFZnVXByRWVyd2t1cExwNURtbE5nUHovUDZ6Q2c9PQo=",
+      "url": "https://github.com/CarlosBranty/qlab-releases/releases/download/v0.7.0-37/Qlab.POS_0.7.0-37_amd64.AppImage"
     }
   }
 }
